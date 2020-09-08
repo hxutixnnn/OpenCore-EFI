@@ -7,6 +7,6 @@
 
 ## System Specs
 
-- Motherboard: Gigabyte GA-H87-D3H
-- CPU: Intel i7 4770k
-- GPU: Radeon RX580
+- Motherboard: ...
+- CPU: Intel i5 4460
+- GPU: Nvidia GTX 1060 3gb
